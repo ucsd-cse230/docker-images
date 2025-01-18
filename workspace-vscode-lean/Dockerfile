@@ -1,4 +1,4 @@
-# This is image is based on
+# Image based on
 # https://github.com/PrairieLearn/PrairieLearn/blob/master/workspaces/vscode-python/Dockerfile
 
 # noble is the codename for Ubuntu 24.04 LTS
